@@ -1,0 +1,49 @@
+:root{
+Font-size:80%
+}
+body{
+    background-color: #4ea6dd77;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+div{
+    position: absolute;
+    top: 20%;
+    left: 26;
+    padding: 70px;
+    border: 1px solid black ;
+    color: black ;
+}
+h2{
+    font-size: 28px;
+    color: #094fc4;
+    
+}
+input {
+    width: 300px;
+    height: 45px;
+    padding-left: 15px;
+    margin: 2px 2px 2px 2px;
+}
+.pallete1{
+color:#4ea6dd;
+}
+
+.pallete2{
+color: #4ea6dd77;
+}
+.pallete3{
+color:#050724;
+}
+.pallete4{
+color:#066257a;
+}
+.btn{
+    width: 319px;
+    height: 45px;
+    padding-left: 17px;
+    margin: 2px 2px 2px 2px;
+}
+a{
+    text-decoration: none;
+}
